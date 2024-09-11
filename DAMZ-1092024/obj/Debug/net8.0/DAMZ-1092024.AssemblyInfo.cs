@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DAMZ-1092024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9606ad8f4aa1be4bd630280959b49ddd80b0f3e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("DAMZ-1092024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DAMZ-1092024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
